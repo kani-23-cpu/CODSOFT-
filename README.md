@@ -12,4 +12,4 @@ Content
 The dataset contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
 
 Acknowledgements
-This dataset is free and is publicly available at the UCI Machine Learning Repository
+This dataset is free and is publicly available at the UCI Machine Learning Repository & KNearest neighbor classification
